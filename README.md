@@ -1,7 +1,6 @@
 # 🔐 Rshot - Multi-Service Login Checker [RDP + WinRM]
 
-Rshot is a command-line tool designed for auditing login credentials across multiple Windows services. It checks for valid logins with supplied host, username, and password lists.
-
+When you're doing an assessment and have found a lot of credentials but don't know where to use them, **Rshot is the tool for you**. It checks for valid logins using supplied host, username, and password lists.
 ---
 
 ## ⚙️ Requirements
